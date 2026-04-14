@@ -1,0 +1,2125 @@
+{
+  "pipeline_run": "20260413T142057",
+  "source_url": "https://horizn-studios.com",
+  "model": "gemma3:4b",
+  "chunks_processed": 58,
+  "chunks_skipped": 10,
+  "kansei_raw_votes": {
+    "functional_decorative": {
+      "functional": 21.25
+    },
+    "serious_playful": {
+      "playful": 2.8,
+      "serious": 9.55
+    },
+    "dynamic_static": {
+      "dynamic": 13.25,
+      "static": 1.0
+    },
+    "individual_collective": {
+      "collective": 4.7,
+      "individual": 5.8,
+      "neutral": 0.9
+    },
+    "modern_traditional": {
+      "modern": 17.55,
+      "traditional": 1.0,
+      "neutral": 0.95
+    },
+    "minimal_ornate": {
+      "minimal": 17.5,
+      "neutral": 1.85,
+      "ornate": 0.95
+    },
+    "urban_natural": {
+      "urban": 2.85,
+      "natural": 7.55,
+      "neutral": 2.0
+    },
+    "premium_accessible": {
+      "premium": 16.7,
+      "neutral": 0.95
+    },
+    "rough_refined": {
+      "refined": 8.6,
+      "neutral": 0.95
+    },
+    "bold_subtle": {
+      "bold": 4.55,
+      "subtle": 1.95
+    },
+    "timeless_trendy": {
+      "timeless": 7.55,
+      "trendy": 0.95
+    },
+    "transparent_mysterious": {
+      "transparent": 6.65,
+      "neutral": 1.95
+    },
+    "functional": {
+      "functional": 0.9
+    },
+    "premium": {
+      "premium": 0.9
+    },
+    "serious": {
+      "serious": 0.9
+    },
+    "timeless": {
+      "timeless": 0.9
+    }
+  },
+  "processed": [
+    {
+      "status": "processed",
+      "chunk_id": 0,
+      "source_page": "about_us",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "joy"
+      ],
+      "kansei_perception": {
+        "functional_decorative": "functional",
+        "serious_playful": "playful",
+        "dynamic_static": "dynamic",
+        "individual_collective": "collective"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "expeditive",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#1A1A1A",
+        "#4A4A4A",
+        "#D0C0B0",
+        "#606060"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 1,
+      "source_page": "about_us",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "expeditive",
+        "socioecological"
+      ],
+      "color_hex_codes": [
+        "#2C3E50",
+        "#1A1A1A",
+        "#B0B0A0"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 2,
+      "source_page": "about_us",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "relief"
+      ],
+      "kansei_perception": {
+        "functional_decorative": "functional",
+        "urban_natural": "urban",
+        "serious_playful": "serious",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "performer",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 3,
+      "source_page": "about_us",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "awe",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "neutral",
+        "functional_decorative": "neutral",
+        "bold_subtle": "neutral",
+        "urban_natural": "natural",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "collective",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 4,
+      "source_page": "about_us",
+      "confidence": 1.0,
+      "heading": "",
+      "emotional_impact": [
+        "admiration",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 5,
+      "source_page": "about_us",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "relief",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "neutral",
+        "minimal_ornate": "neutral",
+        "functional_decorative": "functional",
+        "bold_subtle": "neutral",
+        "urban_natural": "urban",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "neutral",
+        "individual_collective": "neutral",
+        "rough_refined": "refined",
+        "dynamic_static": "neutral",
+        "transparent_mysterious": "neutral"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 6,
+      "source_page": "about_us",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "bold",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 8,
+      "source_page": "about_us",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "urban_natural": "natural",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "socioecological"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 9,
+      "source_page": "about_us",
+      "confidence": 1.0,
+      "heading": "",
+      "emotional_impact": [
+        "relief",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "traditional",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "subtle",
+        "urban_natural": "neutral",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "static",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "traditional"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 4,
+      "source_page": "homepage",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "natural",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "individual_collective": "collective",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "socioecological",
+        "expeditive"
+      ],
+      "color_hex_codes": [
+        "#D8C0C0",
+        "#333333",
+        "#A0B0C0"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 5,
+      "source_page": "homepage",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": [
+        "#D8A0A0",
+        "#1A1A1A",
+        "#87CEEB",
+        "#666666"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 10,
+      "source_page": "homepage",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "awe"
+      ],
+      "kansei_perception": {
+        "timeless_trendy": "timeless",
+        "individual_collective": "individual",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "expeditive"
+      ],
+      "color_hex_codes": [
+        "#4A90E2",
+        "#1A1A1A",
+        "#A0A0A0"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 11,
+      "source_page": "homepage",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "urban_natural": "urban",
+        "timeless_trendy": "timeless",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "cultural_venue"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "expeditive"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 12,
+      "source_page": "homepage",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "functional_decorative": "functional",
+        "urban_natural": "natural",
+        "serious_playful": "serious"
+      },
+      "visual_setting": [
+        "indoor_workspace",
+        "cultural_venue"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 0,
+      "source_page": "more_about_quality",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "neutral",
+        "functional_decorative": "functional",
+        "bold_subtle": "bold",
+        "urban_natural": "natural",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "neutral",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "socioecological"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 1,
+      "source_page": "more_about_quality",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "socioecological"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 2,
+      "source_page": "more_about_quality",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "socioecological",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 3,
+      "source_page": "more_about_quality",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "relief"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "neutral",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "subtle",
+        "urban_natural": "natural",
+        "premium_accessible": "neutral",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "collective",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 4,
+      "source_page": "more_about_quality",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "relief"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "natural"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "unspecified"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 5,
+      "source_page": "more_about_quality",
+      "confidence": 1.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "pride"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "bold",
+        "urban_natural": "neutral",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "neutral"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "socioecological",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 6,
+      "source_page": "more_about_quality",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "admiration",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "natural",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "sports_active"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 7,
+      "source_page": "more_about_quality",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "relief",
+        "interest"
+      ],
+      "kansei_perception": {
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "serious_playful": "serious"
+      },
+      "visual_setting": [
+        "unspecified"
+      ],
+      "target_audience": [
+        "socioecological",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 8,
+      "source_page": "more_about_quality",
+      "confidence": 1.0,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "natural"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 0,
+      "source_page": "more_about_our_efforts_and_impact",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "natural",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "collective",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#FFC300",
+        "#333333",
+        "#B8A080",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 1,
+      "source_page": "more_about_our_efforts_and_impact",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "awe"
+      ],
+      "kansei_perception": {
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "natural",
+        "timeless_trendy": "timeless"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#000000",
+        "#FFFFFF",
+        "#A08070",
+        "#444444"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 2,
+      "source_page": "more_about_our_efforts_and_impact",
+      "confidence": 1.0,
+      "heading": "",
+      "emotional_impact": [
+        "compassion",
+        "pride"
+      ],
+      "kansei_perception": {
+        "serious_playful": "serious",
+        "individual_collective": "collective",
+        "transparent_mysterious": "transparent",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "cultural_venue"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#FFFFFF",
+        "#A9A9A9",
+        "#D3D3D3"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 3,
+      "source_page": "more_about_our_efforts_and_impact",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "awe"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "accessible",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 4,
+      "source_page": "more_about_our_efforts_and_impact",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "neutral",
+        "functional_decorative": "decorative",
+        "bold_subtle": "bold",
+        "urban_natural": "neutral",
+        "premium_accessible": "neutral",
+        "serious_playful": "serious",
+        "timeless_trendy": "neutral",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "neutral"
+      },
+      "visual_setting": [
+        "cultural_venue",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 0,
+      "source_page": "more_about_our_partners",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "joy"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "individual_collective": "collective",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "expeditive",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#111111",
+        "#4B5320",
+        "#A52A2A",
+        "#8B7355"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 1,
+      "source_page": "more_about_our_partners",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "rough_refined": "refined"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": [
+        "#111111",
+        "#FFFFFF",
+        "#B0A8A5"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 2,
+      "source_page": "more_about_our_partners",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "compassion",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "decorative",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#000000",
+        "#808080",
+        "#654321",
+        "#FFD700"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 3,
+      "source_page": "more_about_our_partners",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "neutral",
+        "minimal_ornate": "neutral",
+        "functional_decorative": "functional",
+        "bold_subtle": "subtle",
+        "urban_natural": "natural",
+        "premium_accessible": "neutral",
+        "serious_playful": "playful",
+        "timeless_trendy": "timeless",
+        "individual_collective": "collective",
+        "rough_refined": "neutral",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "neutral"
+      },
+      "visual_setting": [
+        "cafe_social",
+        "outdoor_nature"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 4,
+      "source_page": "more_about_our_partners",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "bold",
+        "urban_natural": "urban",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "collective",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "indoor_home"
+      ],
+      "target_audience": [
+        "performer",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 5,
+      "source_page": "more_about_our_partners",
+      "confidence": 1.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "cultural_venue"
+      ],
+      "target_audience": [
+        "performer",
+        "expeditive"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 6,
+      "source_page": "more_about_our_partners",
+      "confidence": 0.95,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "pride"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "ornate",
+        "functional_decorative": "functional",
+        "bold_subtle": "bold",
+        "urban_natural": "urban",
+        "premium_accessible": "premium",
+        "serious_playful": "playful",
+        "timeless_trendy": "trendy",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 0,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "relief"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "rough_refined": "rough"
+      },
+      "visual_setting": [
+        "outdoor_nature",
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": [
+        "#8F997D",
+        "#E0C9B5",
+        "#1A1A1A"
+      ]
+    },
+    {
+      "status": "processed",
+      "chunk_id": 1,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "pride"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 2,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "pride",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 3,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "relief",
+        "interest"
+      ],
+      "kansei_perception": {
+        "functional": "functional",
+        "premium": "premium",
+        "serious": "serious",
+        "timeless": "timeless"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "socioecological",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 4,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "performer",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 5,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "relief",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "neutral",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "subtle",
+        "urban_natural": "urban",
+        "premium_accessible": "neutral",
+        "serious_playful": "serious",
+        "timeless_trendy": "neutral",
+        "individual_collective": "neutral",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic",
+        "transparent_mysterious": "neutral"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "performer",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 6,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "relief",
+        "interest"
+      ],
+      "kansei_perception": {
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "transparent_mysterious": "transparent"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "performer",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 7,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "pride"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "expeditive",
+        "socioecological"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 8,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.8,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "surprise"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "bold_subtle": "bold"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "expeditive",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 9,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "pride"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "indoor_workspace",
+        "studio_neutral"
+      ],
+      "target_audience": [
+        "performer",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 10,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "surprise"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "adaptive_pragmatic",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 11,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "surprise"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "socioecological",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 12,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.7,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "interest"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "performer",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 14,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "interest",
+        "surprise"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "adaptive_pragmatic",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 15,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "indoor_workspace"
+      ],
+      "target_audience": [
+        "performer",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 16,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban",
+        "premium_accessible": "premium",
+        "serious_playful": "serious",
+        "timeless_trendy": "timeless",
+        "individual_collective": "individual",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "adaptive_pragmatic",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 17,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "performer",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 18,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "relief"
+      ],
+      "kansei_perception": {
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "urban_natural": "urban",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 19,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "functional": "functional",
+        "premium": "premium",
+        "dynamic": "dynamic",
+        "refined": "refined"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "performer"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 20,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "premium_accessible": "premium",
+        "functional_decorative": "functional",
+        "timeless_trendy": "timeless",
+        "rough_refined": "refined"
+      },
+      "visual_setting": [
+        "outdoor_urban",
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "upper_liberal",
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 21,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "admiration"
+      ],
+      "kansei_perception": {
+        "modern_traditional": "modern",
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium"
+      },
+      "visual_setting": [
+        "outdoor_travel",
+        "outdoor_urban"
+      ],
+      "target_audience": [
+        "performer",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 22,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.9,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "love"
+      ],
+      "kansei_perception": {
+        "minimal_ornate": "minimal",
+        "functional_decorative": "functional",
+        "premium_accessible": "premium",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "outdoor_travel"
+      ],
+      "target_audience": [
+        "adaptive_pragmatic"
+      ],
+      "color_hex_codes": []
+    },
+    {
+      "status": "processed",
+      "chunk_id": 23,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "confidence": 0.0,
+      "heading": "",
+      "emotional_impact": [
+        "joy",
+        "interest"
+      ],
+      "kansei_perception": {
+        "functional_decorative": "functional",
+        "minimal_ornate": "minimal",
+        "rough_refined": "refined",
+        "dynamic_static": "dynamic"
+      },
+      "visual_setting": [
+        "indoor_home"
+      ],
+      "target_audience": [
+        "adaptive_pragmatic",
+        "upper_liberal"
+      ],
+      "color_hex_codes": []
+    }
+  ],
+  "skipped": [
+    {
+      "status": "skipped",
+      "chunk_id": 7,
+      "source_page": "about_us",
+      "skip_reason": "too_short",
+      "char_count": 53,
+      "heading": "Our Journey",
+      "text": "range – and look forward to continuing to go further."
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 0,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 28,
+      "heading": "The Pro Series.",
+      "text": "The Ultimate Travel Upgrade."
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 1,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 26,
+      "heading": "Cloud Rose is here.",
+      "text": "The new Essential edition."
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 2,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 35,
+      "heading": "The New Midtown Line",
+      "text": "Developed for modern professionals."
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 3,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 39,
+      "heading": "Shop your Premium Travel Set and Save",
+      "text": "Just enter the code MYSET50 at checkout"
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 6,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 26,
+      "heading": "SoFo Rolltop Backpack X",
+      "text": "Water-sealed cotton canvas"
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 7,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 57,
+      "heading": "My Music My Journey with Blond:ish",
+      "text": "Meet the vibrant DJ, producer, and environmental activist"
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 8,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 59,
+      "heading": "Life Is A Journey with Benjamin Patch",
+      "text": "The designer and former athlete on carving out his own path"
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 9,
+      "source_page": "homepage",
+      "skip_reason": "too_short",
+      "char_count": 51,
+      "heading": "Food Matters with Shit Mendy Cooks",
+      "text": "Meet the beloved Thai chef, DJ, and food ambassador"
+    },
+    {
+      "status": "skipped",
+      "chunk_id": 13,
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "skip_reason": "too_short",
+      "char_count": 35,
+      "heading": "Gion Cross-Body Bag S",
+      "text": "Regular price 0.00 Unit price / per"
+    }
+  ],
+  "vision_analysis": [
+    {
+      "source_page": "about_us",
+      "image_url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+      "hex_codes": [
+        "#1A1A1A",
+        "#4A4A4A",
+        "#D0C0B0",
+        "#606060"
+      ],
+      "roles": {
+        "#1A1A1A": "neutral",
+        "#4A4A4A": "primary",
+        "#D0C0B0": "neutral",
+        "#606060": "secondary"
+      },
+      "shot_size": "medium-wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "moderate",
+      "lighting": "natural_soft",
+      "people_presence": "full_body",
+      "setting": "outdoor_travel",
+      "composition": "rule_of_thirds",
+      "product_focus": "lifestyle_with_product",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "about_us",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+      "hex_codes": [
+        "#2C3E50",
+        "#1A1A1A",
+        "#B0B0A0"
+      ],
+      "roles": {
+        "#2C3E50": "primary",
+        "#1A1A1A": "neutral",
+        "#B0B0A0": "background"
+      },
+      "shot_size": "medium_close_up",
+      "camera_angle": "eye_level",
+      "depth_of_field": "moderate",
+      "lighting": "natural_soft",
+      "people_presence": "partial_body",
+      "setting": "outdoor_urban",
+      "composition": "centered",
+      "product_focus": "product_in_use",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "homepage",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horizn_Cloud_Rose_26_campaign_hp_banner_desktop_v5_grau_comp.jpg",
+      "hex_codes": [
+        "#D8C0C0",
+        "#333333",
+        "#A0B0C0"
+      ],
+      "roles": {
+        "#D8C0C0": "primary",
+        "#333333": "accent",
+        "#A0B0C0": "background"
+      },
+      "shot_size": "medium_close_up",
+      "camera_angle": "eye_level",
+      "depth_of_field": "moderate",
+      "lighting": "natural_soft",
+      "people_presence": "partial_body",
+      "setting": "outdoor_travel",
+      "composition": null,
+      "product_focus": "product_in_use",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "homepage",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horizn_Cloud_Rose_26_hp_banner_mobile_v5_02_comp.jpg",
+      "hex_codes": [
+        "#D8A0A0",
+        "#1A1A1A",
+        "#87CEEB",
+        "#666666"
+      ],
+      "roles": {
+        "#D8A0A0": "primary",
+        "#1A1A1A": "secondary",
+        "#87CEEB": "background",
+        "#666666": "neutral"
+      },
+      "shot_size": "medium_wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "deep",
+      "lighting": "natural_harsh",
+      "people_presence": "partial_body",
+      "setting": "outdoor_travel",
+      "composition": "rule_of_thirds",
+      "product_focus": "product_in_use",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "homepage",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horizn_GO_Series_26_campaign_hp_banner_desktop_v1_1920.jpg",
+      "hex_codes": [
+        "#4A90E2",
+        "#1A1A1A",
+        "#A0A0A0"
+      ],
+      "roles": {
+        "#4A90E2": "primary",
+        "#1A1A1A": "secondary",
+        "#A0A0A0": "background"
+      },
+      "shot_size": "medium_wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "deep",
+      "lighting": "studio_soft",
+      "people_presence": "full_body",
+      "setting": "indoor_retail",
+      "composition": "leading_lines",
+      "product_focus": "product_in_use",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "more_about_our_efforts_and_impact",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horizn-impact-page-contentblock-220280.webp",
+      "hex_codes": [
+        "#FFC300",
+        "#333333",
+        "#B8A080",
+        "#FFFFFF"
+      ],
+      "roles": {
+        "#FFC300": "primary",
+        "#333333": "secondary",
+        "#B8A080": "background",
+        "#FFFFFF": "neutral"
+      },
+      "shot_size": "medium_wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "moderate",
+      "lighting": "natural_harsh",
+      "people_presence": "none",
+      "setting": "outdoor_travel",
+      "composition": "leading_lines",
+      "product_focus": "lifestyle_with_product",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "more_about_our_efforts_and_impact",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horizn-impact-page-image-f7b12c.webp",
+      "hex_codes": [
+        "#000000",
+        "#FFFFFF",
+        "#A08070",
+        "#444444"
+      ],
+      "roles": {
+        "#000000": "text",
+        "#FFFFFF": "background",
+        "#A08070": "neutral",
+        "#444444": "secondary"
+      },
+      "shot_size": "medium_wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "shallow",
+      "lighting": "natural_soft",
+      "people_presence": "group",
+      "setting": "outdoor_urban",
+      "composition": "rule_of_thirds",
+      "product_focus": null,
+      "narrative_style": "documentary"
+    },
+    {
+      "source_page": "more_about_our_efforts_and_impact",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/main-24b888.webp",
+      "hex_codes": [
+        "#FFFFFF",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "roles": {
+        "#FFFFFF": "primary",
+        "#A9A9A9": "secondary",
+        "#D3D3D3": "background"
+      },
+      "shot_size": "medium_close_up",
+      "camera_angle": "eye_level",
+      "depth_of_field": "moderate",
+      "lighting": "studio_soft",
+      "people_presence": "partial_body",
+      "setting": "indoor_home",
+      "composition": "negative_space",
+      "product_focus": "lifestyle_with_product",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "more_about_our_partners",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/harrys-collaboration-website-image-1-bd6104_2.webp",
+      "hex_codes": [
+        "#111111",
+        "#4B5320",
+        "#A52A2A",
+        "#8B7355"
+      ],
+      "roles": {
+        "#111111": "primary",
+        "#4B5320": "background",
+        "#A52A2A": "accent",
+        "#8B7355": "neutral"
+      },
+      "shot_size": "medium",
+      "camera_angle": "eye_level",
+      "depth_of_field": "shallow",
+      "lighting": "natural_soft",
+      "people_presence": "full_body",
+      "setting": "outdoor_travel",
+      "composition": "centered",
+      "product_focus": "lifestyle_with_product",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "more_about_our_partners",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horiznstudios-soho-house-collaboration-luggage-om1uu3-68f387_ce5ef80b-aacc-4343-a3e3-6bf81d8a7736.webp",
+      "hex_codes": [
+        "#111111",
+        "#FFFFFF",
+        "#B0A8A5"
+      ],
+      "roles": {
+        "#111111": "primary",
+        "#FFFFFF": "accent",
+        "#B0A8A5": "background"
+      },
+      "shot_size": "medium_wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "deep",
+      "lighting": "studio_soft",
+      "people_presence": "partial_body",
+      "setting": "indoor_workspace",
+      "composition": "centered",
+      "product_focus": "product_in_use",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "more_about_our_partners",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/sethtroxler-trolley-36aaeb.webp",
+      "hex_codes": [
+        "#000000",
+        "#808080",
+        "#654321",
+        "#FFD700"
+      ],
+      "roles": {
+        "#000000": "primary",
+        "#808080": "neutral",
+        "#654321": "secondary",
+        "#FFD700": "accent"
+      },
+      "shot_size": "medium_wide",
+      "camera_angle": "eye_level",
+      "depth_of_field": "deep",
+      "lighting": "studio_soft",
+      "people_presence": "full_body",
+      "setting": "indoor_home",
+      "composition": "leading_lines",
+      "product_focus": "lifestyle_with_product",
+      "narrative_style": "staged"
+    },
+    {
+      "source_page": "spotlight_sofo_backpack_rolltop_x",
+      "image_url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-cb57de.webp",
+      "hex_codes": [
+        "#8F997D",
+        "#E0C9B5",
+        "#1A1A1A"
+      ],
+      "roles": {
+        "#8F997D": "primary",
+        "#E0C9B5": "background",
+        "#1A1A1A": "accent"
+      },
+      "shot_size": "medium",
+      "camera_angle": "eye_level",
+      "depth_of_field": "deep",
+      "lighting": "natural_soft",
+      "people_presence": "none",
+      "setting": "indoor_home",
+      "composition": "leading_lines",
+      "product_focus": "product_only",
+      "narrative_style": "staged"
+    }
+  ]
+}

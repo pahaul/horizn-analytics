@@ -1,0 +1,23 @@
+{
+  "framework": "Kansei Engineering – Semantic Differential Word Pairs",
+  "version": "1.0",
+  "source": "Derived from Kansei Engineering methodology (Nagamachi, M., 1995. Kansei Engineering: A new ergonomic consumer-oriented technology for product development. International Journal of Industrial Ergonomics, 15(1), 3-11). Word pairs curated from lifestyle/apparel/consumer goods studies in the Kansei literature. Not a single published standard list – Kansei vocabulary is always domain-specific by design.",
+  "note": "Kansei uses BIPOLAR pairs. The model should place the brand on a spectrum between two poles, not pick a single value. Each pair represents one perceptual axis. This list is pre-filtered for fashion/lifestyle/bag products.",
+  "usage": "For each pair, indicate which pole the brand communication leans toward, or 'neutral' if neither applies. Select max 4 pairs that are most strongly signaled by the text. Return as: {'modern_traditional': 'modern', 'minimal_ornate': 'minimal', ...}",
+  "scale_note": "Original Kansei uses a 7-point Likert scale. For LLM use: return the dominant pole label or 'neutral'.",
+  "pairs": {
+    "modern_traditional":     { "A": "modern",      "B": "traditional",   "dimension": "temporal identity" },
+    "minimal_ornate":         { "A": "minimal",      "B": "ornate",        "dimension": "visual complexity" },
+    "functional_decorative":  { "A": "functional",   "B": "decorative",    "dimension": "purpose emphasis" },
+    "bold_subtle":            { "A": "bold",          "B": "subtle",        "dimension": "visual presence" },
+    "urban_natural":          { "A": "urban",         "B": "natural",       "dimension": "environmental context" },
+    "premium_accessible":     { "A": "premium",       "B": "accessible",    "dimension": "price/status perception" },
+    "serious_playful":        { "A": "serious",       "B": "playful",       "dimension": "tone of communication" },
+    "timeless_trendy":        { "A": "timeless",      "B": "trendy",        "dimension": "longevity of style" },
+    "individual_collective":  { "A": "individual",    "B": "collective",    "dimension": "social orientation" },
+    "rough_refined":          { "A": "rough",         "B": "refined",       "dimension": "material/finish perception" },
+    "dynamic_static":         { "A": "dynamic",       "B": "static",        "dimension": "energy/movement" },
+    "transparent_mysterious": { "A": "transparent",   "B": "mysterious",    "dimension": "brand openness" }
+  },
+  "for_image_generation": "Translate dominant poles directly into visual language: 'minimal+urban+dynamic' → clean composition, city backdrop, motion blur or diagonal framing; 'natural+timeless+refined' → outdoor soft light, neutral palette, still composition"
+}

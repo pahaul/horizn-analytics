@@ -1,0 +1,45 @@
+{
+  "framework": "Sinus-Milieus (DACH) – Audience Typology",
+  "version": "1.0",
+  "source": "Sinus Institut, Heidelberg. https://www.sinus-institut.de/sinus-milieus — Commercial segmentation model, widely used in German-speaking markets. Descriptions here are derived from publicly available summaries and academic references. For full model access: https://www.sinus-institut.de",
+  "note": "Sinus-Milieus segment audiences by values and lifestyle, not just demographics. For brand/image analysis, they indicate which visual language resonates with which audience. This subset focuses on milieus relevant for lifestyle/consumer product brands.",
+  "usage": "Select max 2 values that best describe the target audience implied by this brand content. Look for lifestyle signals, values language, and aspiration markers in the text.",
+  "values": {
+    "upper_liberal":      {
+      "sinus_label": "Etabliertes Milieu / Liberal-Intellektuelle",
+      "description": "Educated, culturally engaged, values quality over quantity, critical of ostentation. Responds to authenticity, craftsmanship, ethical production.",
+      "visual_signals": "Clean editorial photography, natural materials, understated luxury, long-form storytelling"
+    },
+    "performer":          {
+      "sinus_label": "Performer-Milieu",
+      "description": "High-achieving, efficiency-oriented, globally mobile, technology-affine. Values premium performance and status without loudness.",
+      "visual_signals": "Dynamic compositions, urban settings, premium minimalism, people in motion"
+    },
+    "expeditive":         {
+      "sinus_label": "Expeditives Milieu",
+      "description": "Young, creative, networked, rejects mainstream. Values individuality, authenticity, new experiences over status symbols.",
+      "visual_signals": "Raw textures, unconventional angles, diverse casting, anti-stock-photo aesthetic"
+    },
+    "adaptive_pragmatic": {
+      "sinus_label": "Adaptiv-Pragmatisches Milieu",
+      "description": "Practical, solution-oriented young mainstream. Values functionality and good design at fair price. Less aspirational, more grounded.",
+      "visual_signals": "Relatable settings, natural light, everyday contexts, diverse but approachable casting"
+    },
+    "socioecological":    {
+      "sinus_label": "Sozialökologisches Milieu",
+      "description": "Sustainability-driven, critical of consumerism, values fairness and responsibility. Responds to transparency, impact, community.",
+      "visual_signals": "Natural settings, process/behind-the-scenes imagery, earthy palette, collaborative scenes"
+    },
+    "traditional":        {
+      "sinus_label": "Traditionelles Milieu / Bürgerliche Mitte",
+      "description": "Security-oriented, conventional, values reliability and proven quality over novelty.",
+      "visual_signals": "Warm domestic settings, family contexts, classic product shots, reassuring compositions"
+    },
+    "unspecified":        {
+      "sinus_label": null,
+      "description": "Audience cannot be clearly determined from text alone",
+      "visual_signals": null
+    }
+  },
+  "for_image_generation": "Each milieu's visual_signals field maps directly to casting, setting, and composition decisions in image generation prompts"
+}

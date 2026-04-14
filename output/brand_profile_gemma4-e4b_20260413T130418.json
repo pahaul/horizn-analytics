@@ -1,0 +1,157 @@
+{
+  "source_url": "https://horizn-studios.com",
+  "generated_at": "2026-04-13T11:04:18.741837+00:00",
+  "chunks_analysed": 58,
+  "high_confidence_chunks": 29,
+  "kansei_profile": {
+    "functional_decorative": "functional",
+    "urban_natural": "natural",
+    "serious_playful": "serious",
+    "individual_collective": "individual",
+    "dynamic_static": "dynamic",
+    "timeless_trendy": "timeless",
+    "modern_traditional": "modern",
+    "bold_subtle": "bold",
+    "premium_accessible": "premium",
+    "rough_refined": "refined",
+    "minimal_ornate": "minimal",
+    "transparent_mysterious": "transparent"
+  },
+  "primary_settings": [
+    "outdoor_urban",
+    "outdoor_travel",
+    "indoor_home"
+  ],
+  "primary_audience": [
+    "upper_liberal",
+    "socioecological"
+  ],
+  "color_palette": {
+    "hex_codes": [
+      "#1A1A1A",
+      "#D8B4B8",
+      "#8C96A1",
+      "#FFFFFF",
+      "#C4A484"
+    ],
+    "roles": {
+      "#1A1A1A": "accent",
+      "#D8B4B8": "primary",
+      "#8C96A1": "background",
+      "#FFFFFF": "neutral",
+      "#C4A484": "primary"
+    }
+  },
+  "dominant_shot_sizes": [
+    "medium",
+    "wide",
+    "medium_wide"
+  ],
+  "dominant_lighting": [
+    "natural_soft",
+    "natural_harsh"
+  ],
+  "dominant_people_presence": [
+    "partial_body",
+    "full_body"
+  ],
+  "dominant_narrative_styles": [
+    "staged",
+    "documentary"
+  ],
+  "brand_adjectives": [
+    "functional",
+    "natural",
+    "serious",
+    "modern",
+    "premium",
+    "minimal"
+  ],
+  "brand_values": [
+    "High-quality, premium experience",
+    "Functional design",
+    "Modern, refined aesthetic",
+    "Connection to nature and travel",
+    "Individual expression"
+  ],
+  "image_prompt_components": {
+    "subject": "People in partial or full body shots, engaging in lifestyle activities with products in use.",
+    "environment": "A blend of outdoor urban, outdoor travel, and indoor home settings.",
+    "lighting": "Natural lighting, ranging from soft and diffused to harsh and direct.",
+    "composition": "Medium or wide shots, captured at eye-level or low-angle, utilizing shallow depth of field and compositions based on the rule of thirds or centered framing.",
+    "color_palette": "Primary colors include dusty rose/mauve and warm beige/taupe. Secondary colors are slate gray (background), deep charcoal/black (accent), and pure white (neutral).",
+    "mood_keywords": [
+      "Documentary",
+      "Staged",
+      "Natural",
+      "Serious",
+      "Timeless"
+    ],
+    "negative_prompt": [
+      "ornate",
+      "artificial",
+      "cluttered",
+      "overly posed",
+      "synthetic"
+    ]
+  },
+  "profile_confidence": 0.486,
+  "low_signal_warnings": [],
+  "kansei_raw_votes": {
+    "modern_traditional": {
+      "neutral": 2.75,
+      "modern": 22.2
+    },
+    "minimal_ornate": {
+      "neutral": 2.8,
+      "minimal": 20.3,
+      "ornate": 0.95
+    },
+    "functional_decorative": {
+      "functional": 22.05,
+      "decorative": 2.0
+    },
+    "bold_subtle": {
+      "neutral": 0.8,
+      "bold": 4.8,
+      "subtle": 1.95
+    },
+    "urban_natural": {
+      "natural": 6.55,
+      "urban": 5.65,
+      "neutral": 2.95
+    },
+    "premium_accessible": {
+      "neutral": 0.8,
+      "premium": 13.8,
+      "accessible": 0.95
+    },
+    "serious_playful": {
+      "playful": 1.75,
+      "serious": 10.5
+    },
+    "timeless_trendy": {
+      "neutral": 1.75,
+      "timeless": 4.9,
+      "trendy": 1.9
+    },
+    "individual_collective": {
+      "collective": 3.6,
+      "individual": 4.85,
+      "neutral": 0.95
+    },
+    "rough_refined": {
+      "neutral": 0.8,
+      "refined": 8.6,
+      "rough": 0.9
+    },
+    "dynamic_static": {
+      "dynamic": 10.35,
+      "static": 1.95
+    },
+    "transparent_mysterious": {
+      "neutral": 2.75,
+      "transparent": 5.7
+    }
+  }
+}

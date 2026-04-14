@@ -1,0 +1,1228 @@
+{
+  "about_us": {
+    "meta": {
+      "label": "about_us",
+      "url": "https://horizn-studios.com/pages/about-us",
+      "title": "Smart Luggage for Urban Nomads | Horizn Studios",
+      "scraped_at": "2026-04-09T14:21:19.509052",
+      "screenshot_path": "output/screenshots/about_us.png",
+      "page_type": "brand"
+    },
+    "stats": {
+      "chunks": 10,
+      "images": 21,
+      "avg_chunk_chars": 303
+    },
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "heading": "Introduction",
+        "text": "\"We seek to build bridges and make connections. Our mission is to enable curious minds to make the most out of their adventures.\"",
+        "char_count": 129
+      },
+      {
+        "chunk_id": 1,
+        "heading": "Our Story",
+        "text": "We’re here to enable curious minds to travel the world consciously and seamlessly. Always challenging the status quo and pushing ourselves to go further, we build sustainable solutions for the future of travel. In 2015, we launched a new forward-thinking travel brand for the next generation in Europe; 100% design- and innovation driven, we soon became a driving force in the industry. Thriving on curiosity, creativity, and collaboration, we design high-end luggage, backpacks, and travel",
+        "char_count": 490
+      },
+      {
+        "chunk_id": 2,
+        "heading": "Our Story",
+        "text": "accessories both for your daily commute and your long-haul trips.",
+        "char_count": 65
+      },
+      {
+        "chunk_id": 3,
+        "heading": "Our Efforts and Impact",
+        "text": "We believe in a world without boundaries. We want you to travel as consciously as possible, knowing that your travel companions won’t just stand the test of time, but are made responsibly. Becoming a driving force for sustainable travel is a journey we have embarked on with great respect, and we’re excited to take you along for the ride. More about our efforts and impact",
+        "char_count": 373
+      },
+      {
+        "chunk_id": 4,
+        "heading": "Our Partnerships",
+        "text": "We’re firm believers in the power of creative exchange. So we’ve collaborated with like-minded brands like Beats by Dre, BMW, Soho House, and Design Hotels. To truly involve the voices shaping contemporary culture, we joined forces with acclaimed DJ and producer, Seth Troxler to design the Pro Model ST DJ case; with renowned sound artist Emeka Ogboh we created a limited range inspired by the vibrant West African metropolis of Lagos.",
+        "char_count": 436
+      },
+      {
+        "chunk_id": 5,
+        "heading": "Get in touch",
+        "text": "Our dedicated customer service team is here for you. Honestly, there is no request too big or too small. We look forward to connecting with you. Get in touch via our Customer Contact Form . Lifetime Warranty on all Pro and Essential Luggage GQ : Best Suitcase of Year 2026",
+        "char_count": 272
+      },
+      {
+        "chunk_id": 6,
+        "heading": "Our Journey",
+        "text": "Following our brand ethos Let’s Go. Further., we’ve been pushing the boundaries of our industry from day one. In our first year, we launched the world's first luggage featuring a removable charger. Subsequent collaborations with icons such as BMW, Beats By Dre, Soho House, and NASA astronaut Alyssa Carson have elevated our profile, culminating in the global debut of space luggage. Thanks to our brilliant international team, we have also developed the world's most sustainable high-end luggage",
+        "char_count": 496
+      },
+      {
+        "chunk_id": 7,
+        "heading": "Our Journey",
+        "text": "range – and look forward to continuing to go further.",
+        "char_count": 53
+      },
+      {
+        "chunk_id": 8,
+        "heading": "Our Commitment to Sustainability",
+        "text": "While the RE Series and its 97% recycled hard shell benchmarked sustainable polycarbonate luggage, our R&D team collaborates with material science experts on Circle One and its 100% plant-based hard shell, making it the world's most sustainable luxury luggage. Proving that performance and sustainability aren’t mutually exclusive, we’re determined to lead the way towards a sustainable future of travel. Sign up to our newsletter to stay tuned.",
+        "char_count": 445
+      },
+      {
+        "chunk_id": 9,
+        "heading": "Our Quality Promise",
+        "text": "Our products accompany you for life. Our dedicated team of designers and engineers carefully sources the highest-quality materials. Each range goes through rigorous testing before launching, so you travel with dependable companions you can fall back on for years to come.",
+        "char_count": 271
+      }
+    ],
+    "images": [
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Luggage"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/RE_Series_Glossy_Mocha_Campaign_Page_Image.jpg",
+        "alt_text": "Series Glossy Braun Campaign Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HS_Busines_Traveller_6_2_1.jpg",
+        "alt_text": "Busines Traveller - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_air_series.png",
+        "alt_text": "Spotlight Air Series - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_SoFo_Rolltop_X.png",
+        "alt_text": "Spotlight Sofo Rolltop Rucksack - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-gion-pro-spotlight_1_YoungProfessional_1.png",
+        "alt_text": "Gion Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-sofo-weekender-spotlight-8e191b.jpg",
+        "alt_text": "Sofo Weekender Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/spotlight_bags_sofo_box_bag_image.jpg",
+        "alt_text": "Spotlight Bags Sofo Box Tasche Image - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-packing-cubes-spotlight-c11ccd.jpg",
+        "alt_text": "Packing Cubes Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-topcase-spotlight-2fd349.jpg",
+        "alt_text": "Topcase Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_WHITE_01_1.png",
+        "alt_text": "Weiß - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_BLACK_01_1.png",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/About_Us_Banner_Image.jpg",
+        "alt_text": "About Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/hs-brandpage-tile-grid-ourstory-3e0892.webp",
+        "alt_text": "Brandpage Tile Grid Ourstory - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/hs-brandpage-tile-ourqualitypromise-f8442b.webp",
+        "alt_text": "Brandpage Tile - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-about-page-contentblock-80d148_580fa786-b265-4676-83a3-25090106dd2b.jpg",
+        "alt_text": "About Page - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-about-page-contentblock-portrait-d1011e.webp",
+        "alt_text": "About Page Portrait - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/hs-brandpage-tile-grid-ourpartnerships-ee6c86.webp",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_GQ_no_claim.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_VOGUE_no_claim.png",
+        "alt_text": ""
+      }
+    ]
+  },
+  "homepage": {
+    "meta": {
+      "label": "homepage",
+      "url": "https://horizn-studios.com",
+      "title": "Luxury Travel Luggage & Travel Accessories | Horizn Studios",
+      "scraped_at": "2026-04-09T14:21:24.965593",
+      "screenshot_path": "output/screenshots/homepage.png",
+      "page_type": "brand"
+    },
+    "stats": {
+      "chunks": 13,
+      "images": 48,
+      "avg_chunk_chars": 70
+    },
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "heading": "The Pro Series.",
+        "text": "The Ultimate Travel Upgrade.",
+        "char_count": 28
+      },
+      {
+        "chunk_id": 1,
+        "heading": "Cloud Rose is here.",
+        "text": "The new Essential edition.",
+        "char_count": 26
+      },
+      {
+        "chunk_id": 2,
+        "heading": "The New Midtown Line",
+        "text": "Developed for modern professionals.",
+        "char_count": 35
+      },
+      {
+        "chunk_id": 3,
+        "heading": "Shop your Premium Travel Set and Save",
+        "text": "Just enter the code MYSET50 at checkout",
+        "char_count": 39
+      },
+      {
+        "chunk_id": 4,
+        "heading": "Let's Go. Further.",
+        "text": "Open up new horizons. Blaze a trail. Make lifelong memories. Create genuine connections. Join our community of next-generation travellers that's all about smart luggage, backpacks, and accessories for a truly sustainable future.",
+        "char_count": 228
+      },
+      {
+        "chunk_id": 5,
+        "heading": "Meet Our Community",
+        "text": "Lifetime Warranty on all Pro and Essential Luggage GQ : Best Suitcase of Year 2026",
+        "char_count": 82
+      },
+      {
+        "chunk_id": 6,
+        "heading": "SoFo Rolltop Backpack X",
+        "text": "Water-sealed cotton canvas",
+        "char_count": 26
+      },
+      {
+        "chunk_id": 7,
+        "heading": "My Music My Journey with Blond:ish",
+        "text": "Meet the vibrant DJ, producer, and environmental activist",
+        "char_count": 57
+      },
+      {
+        "chunk_id": 8,
+        "heading": "Life Is A Journey with Benjamin Patch",
+        "text": "The designer and former athlete on carving out his own path",
+        "char_count": 59
+      },
+      {
+        "chunk_id": 9,
+        "heading": "Food Matters with Shit Mendy Cooks",
+        "text": "Meet the beloved Thai chef, DJ, and food ambassador",
+        "char_count": 51
+      },
+      {
+        "chunk_id": 10,
+        "heading": "Life Is A Journey with Louna Sbou",
+        "text": "In the Oyoun co-founder and artistic director’s world, optimism prevails",
+        "char_count": 72
+      },
+      {
+        "chunk_id": 11,
+        "heading": "Going Further with Ekow Barnes",
+        "text": "Discussing all things travel and the creative industries with the writer and creative from Accra, Ghana",
+        "char_count": 103
+      },
+      {
+        "chunk_id": 12,
+        "heading": "Going Further with Lilian Liu",
+        "text": "The sustainability expert on achieving social and environmental justice with optimism, innovation, and collaboration",
+        "char_count": 116
+      }
+    ],
+    "images": [
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Luggage"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/RE_Series_Glossy_Mocha_Campaign_Page_Image.jpg",
+        "alt_text": "Series Glossy Braun Campaign Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HS_Busines_Traveller_6_2_1.jpg",
+        "alt_text": "Busines Traveller - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_air_series.png",
+        "alt_text": "Spotlight Air Series - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_SoFo_Rolltop_X.png",
+        "alt_text": "Spotlight Sofo Rolltop Rucksack - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-gion-pro-spotlight_1_YoungProfessional_1.png",
+        "alt_text": "Gion Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-sofo-weekender-spotlight-8e191b.jpg",
+        "alt_text": "Sofo Weekender Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/spotlight_bags_sofo_box_bag_image.jpg",
+        "alt_text": "Spotlight Bags Sofo Box Tasche Image - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-packing-cubes-spotlight-c11ccd.jpg",
+        "alt_text": "Packing Cubes Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-topcase-spotlight-2fd349.jpg",
+        "alt_text": "Topcase Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_WHITE_01_1.png",
+        "alt_text": "Weiß - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_BLACK_01_1.png",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn_Cloud_Rose_26_campaign_hp_banner_desktop_v5_grau_comp.jpg",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn_Cloud_Rose_26_hp_banner_mobile_v5_02_comp.jpg",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn_GO_Series_26_campaign_hp_banner_desktop_v1_1920.jpg",
+        "alt_text": "GO Series Koffer Blau - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn_GO_Series_26_campaign_hp_banner_mobil_v1_960_komp.jpg",
+        "alt_text": "GO Series Koffer Blau - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Midtown_HP_Banner_v2.png",
+        "alt_text": "Midtown - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Content Koffer Image - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HP_BTW_Content_Block_Backpack_Image.jpg",
+        "alt_text": "Content Rucksack Image - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H5_Essential_All_Black_Front_7fc26009-26fb-487a-b4f4-ee120780b908.png",
+        "alt_text": "Koffer Essential Vorderseite - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H5_Essential_All_Black_3_4_f19f4357-c6ba-4e89-9175-77dcc340b7cf.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/M5_Essential_Sand_Grey_Front_09c45b98-c3d2-44c7-90fb-e51a5b811ee4.png",
+        "alt_text": "Koffer Essential Beige Vorderseite - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/M5_Essential_Sand_Grey_3_4_2248e7f0-867b-47de-a697-cd74b7e6a358.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H6_Essential_Glossy_Agave_Front_97251d17-b205-4c72-a574-ca5353428275.png",
+        "alt_text": "Koffer Essential Glossy Grün Vorderseite - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/h6-smart-glossy-agave-green-3-4-0fc0a6_e4b78b9f-59bc-4932-9b58-a01a5528d5f9.jpg",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H7_Essential_Night_Blue_Front_f2e2db59-078f-42d7-9197-a61efecb6be1.png",
+        "alt_text": "Koffer Essential Blau Vorderseite - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H7_Essential_Night_Blue_3_4_617cf5bf-89c8-4183-a8ee-7dda618b415b.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Gion_Backpack_Travel_All_Black_Front.png",
+        "alt_text": "Gion Backpack Travel / All Black / Recycled Nylon"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Gion_Backpack_Travel_All_Black_3_4_fe24b7ae-8ef0-4036-9622-5a1fb57c1f8b.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Front.png",
+        "alt_text": "SoFo Rolltop Backpack X / Night Blue / Waxed Canvas"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_3_4.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Weekender_All_Black_front.png",
+        "alt_text": "SoFo Weekender M / Black / Recycled Waxed Canvas / Size M"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Weekender_All_Black_side.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/01_Midtown_Series_Briefcase_Night_Blue_Front.png",
+        "alt_text": "Midtown Series Briefcase Blau Vorderseite - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/02_Midtown_Series_Briefcase_Night_Blue_3_4.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/horizn-studios-f6d07c.webp",
+        "alt_text": "Sets"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-studios-f6d07c.webp",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/R0002683.jpg",
+        "alt_text": "Man with a backpack standing against a light-colored wall"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HP_3-tile.jpg",
+        "alt_text": "suitcase standing on a platform as a train passes by - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/articles/journal-images-blondish-desktop-2-1-761f49_e563b2a3-4c99-44cd-95c4-6f17394083d0.webp",
+        "alt_text": "My Music My Journey with Blond:ish"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/articles/horizn-journal-benjamin-patch-desktop-3-c182e8_7affdcbf-fedf-4249-aff4-9636758f51c9.webp",
+        "alt_text": "Life Is A Journey with Benjamin Patch"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/articles/Frame_19_59ced3b3-f59a-4862-9666-5775b7ede071.jpg",
+        "alt_text": "Food Matters with Shit Mendy Cooks"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/articles/horizn-journal-louna-desktop-1-5fab04_a8e71f8a-7cb1-4743-b609-f25a3b0e7e64.webp",
+        "alt_text": "Life Is A Journey with Louna Sbou"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/articles/Frame_21_c52918bb-37a5-4138-b7db-e3eb81e1aaa9.jpg",
+        "alt_text": "Going Further with Ekow Barnes"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/articles/journal-images-lilian-liu-43adb0_a2997ab4-0c95-4943-a496-35c5ab5567e8.webp",
+        "alt_text": "Going Further with Lilian Liu"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_GQ_no_claim.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_VOGUE_no_claim.png",
+        "alt_text": ""
+      }
+    ]
+  },
+  "more_about_quality": {
+    "meta": {
+      "label": "more_about_quality",
+      "url": "https://horizn-studios.com/pages/quality",
+      "title": "Product Quality & Craftsmanship | Horizn Studios",
+      "scraped_at": "2026-04-09T14:21:34.692611",
+      "screenshot_path": "output/screenshots/more_about_quality.png",
+      "page_type": "brand"
+    },
+    "stats": {
+      "chunks": 9,
+      "images": 23,
+      "avg_chunk_chars": 324
+    },
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "heading": "Going the extra mile for truly sustainable choices",
+        "text": "With each of our travel staples we take travel towards a greener future. We’re disruptors at heart: we not only apply the highest standards of German engineering and rigorous testing methods but work with the most creative developers and manufacturers around the world. Driven by our claim Let’s Go. Further. we keep pushing boundaries every step of the way.",
+        "char_count": 358
+      },
+      {
+        "chunk_id": 1,
+        "heading": "Masterminding change",
+        "text": "Fabric innovation is a true passion of ours. We go beyond carefully considering the quality of our materials, and only rely on those bringing us closer to a world driven by circularity. That’s our way of ensuring that your travel companions look sleek, stand the test of time, and are made responsibly at the same time. Lifetime Warranty on all Pro and Essential Luggage GQ : Best Suitcase of Year 2026",
+        "char_count": 402
+      },
+      {
+        "chunk_id": 2,
+        "heading": "Up to 97% recycled aerospace-grade polycarbonate",
+        "text": "For both durability and sustainability, the hard shells of our M5, H5, H6 and H7 perfectly blend virgin and recycled polycarbonate, which we solely source in a strict closed-loop system and thereby eliminate waste. With the RE Series, we upped the hard shell’s recycled share to an astonishing 97% – and a new benchmark of sustainable luggage – without compromising its performance.",
+        "char_count": 382
+      },
+      {
+        "chunk_id": 3,
+        "heading": "Recycled lightweight nylon",
+        "text": "Our lightweight and incredibly long-lasting recycled nylon of select lines has a soft-touch and is water-resistant. It’s made from post-consumer waste.",
+        "char_count": 151
+      },
+      {
+        "chunk_id": 4,
+        "heading": "Waterproof tarpaulin",
+        "text": "Tarpaulin is a heavy-duty flexible composite textile made from synthetic yarns that are thermo-laminated. We’re currently testing stage a new sustainable alternative: 100% recycled, its production will save up to 60% of wastewater and 60% of greenhouse gas emissions. For its durability, and our Gion range’s eminent quality in particular, we will know no compromises.",
+        "char_count": 368
+      },
+      {
+        "chunk_id": 5,
+        "heading": "Recycled cotton canvas",
+        "text": "The recycled cotton threads are coated synthetically, then tightly woven into a heavy-duty, water-resistant canvas. The finish offers an extra layer of protection and develops a unique patina over time as a testament to your travels.",
+        "char_count": 233
+      },
+      {
+        "chunk_id": 6,
+        "heading": "Vegan Hi-Core",
+        "text": "Often used in high-end sportswear, our signature fabric is waterproof, UV-resistant, incredibly durable, and 100% animal-friendly. It is more flexible and softer to the touch than tarpaulin, but will still withstand even the harshest of conditions. The water and any other additives used in the manufacturing process are continuously recycled in a closed loop.",
+        "char_count": 360
+      },
+      {
+        "chunk_id": 7,
+        "heading": "Recycled water resistant lining",
+        "text": "A high-density, water-resistant, and 100% recycled lining that minimises the risk of leaks and spills soaking through. We don’t advise you to wash this fabric in a washing machine as this would remove its waterproof coating.",
+        "char_count": 224
+      },
+      {
+        "chunk_id": 8,
+        "heading": "Circle One",
+        "text": "Circle One moves luggage towards 100% renewable materials. Made in Europe, it will feature a fully plant-based hard shell innovation, BioX, with flax as its main ingredient – an incredibly resilient natural fibre, that will make the Circle One lighter than aluminium, longer-lasting than polycarbonate, and greener than any of its competitors. The innovation will be complete with seed and nutshell-infused handles and a magnesium telescope.",
+        "char_count": 441
+      }
+    ],
+    "images": [
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Luggage"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/RE_Series_Glossy_Mocha_Campaign_Page_Image.jpg",
+        "alt_text": "Series Glossy Braun Campaign Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HS_Busines_Traveller_6_2_1.jpg",
+        "alt_text": "Busines Traveller - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_air_series.png",
+        "alt_text": "Spotlight Air Series - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_SoFo_Rolltop_X.png",
+        "alt_text": "Spotlight Sofo Rolltop Rucksack - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-gion-pro-spotlight_1_YoungProfessional_1.png",
+        "alt_text": "Gion Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-sofo-weekender-spotlight-8e191b.jpg",
+        "alt_text": "Sofo Weekender Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/spotlight_bags_sofo_box_bag_image.jpg",
+        "alt_text": "Spotlight Bags Sofo Box Tasche Image - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-packing-cubes-spotlight-c11ccd.jpg",
+        "alt_text": "Packing Cubes Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-topcase-spotlight-2fd349.jpg",
+        "alt_text": "Topcase Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_WHITE_01_1.png",
+        "alt_text": "Weiß - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_BLACK_01_1.png",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-quality-page-header-c374d1_1.webp",
+        "alt_text": "Quality Page Header - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/quality-page-polycarb-070abe.webp",
+        "alt_text": "Quality Page Polycarb - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/quality-page-recycled-nylon-c2330c.webp",
+        "alt_text": "Quality Page Nylon - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/quality-page-tarpaulin-n-86ffd7.webp",
+        "alt_text": "Quality Page Tarpaulin - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/quality-page-72d591.webp",
+        "alt_text": "Quality Page - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/quality-page-f3164b.webp",
+        "alt_text": "Quality Page - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/quality-page-e11138.webp",
+        "alt_text": "Quality Page - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horiznstudios-website-circleone-qualitypage-biox-closeup-black-8cf9ad.webp",
+        "alt_text": "Circle One Qualitypage Biox Closeup - Umweltfreundlich Innovativ - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_GQ_no_claim.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_VOGUE_no_claim.png",
+        "alt_text": ""
+      }
+    ]
+  },
+  "more_about_our_efforts_and_impact": {
+    "meta": {
+      "label": "more_about_our_efforts_and_impact",
+      "url": "https://horizn-studios.com/pages/impact",
+      "title": "Our Efforts and Impact | Horizn Studios",
+      "scraped_at": "2026-04-09T14:21:39.279564",
+      "screenshot_path": "output/screenshots/more_about_our_efforts_and_impact.png",
+      "page_type": "brand"
+    },
+    "stats": {
+      "chunks": 5,
+      "images": 19,
+      "avg_chunk_chars": 347
+    },
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "heading": "Going Further, Together",
+        "text": "For you to consume consciously, we need to make responsible choices every step of the way. As we’re entering a new era of sustainable travel, we’re not only prioritising our responsibility to protect our planet, but also continue our commitment to fighting social injustices. Lifetime Warranty on all Pro and Essential Luggage GQ : Best Suitcase of Year 2026",
+        "char_count": 358
+      },
+      {
+        "chunk_id": 1,
+        "heading": "Shaping Sustainable Travel",
+        "text": "As firm believers in a world without boundaries, we know that together we can shape the future of travel. From the longevity of our products to prioritising cruelty-free materials and using recycled packaging, we make sure that your travel companions won’t just stand the test of time, but are made responsibly.",
+        "char_count": 311
+      },
+      {
+        "chunk_id": 2,
+        "heading": "Together For Female Empowerment",
+        "text": "To us, an equal world can only exist with human rights for all. That’s why, in 2023 and in collaboration with Andreas Murkudis, we donated our sales of the company’s annual Murkudis Market to Hawar Help, a Berlin-based initiate supporting the Iranian women’s movement and other social justice programmes.",
+        "char_count": 304
+      },
+      {
+        "chunk_id": 3,
+        "heading": "Helping to Go Further",
+        "text": "Overcoming boundaries and working to create equal opportunities for those who often find themselves in hopeless circumstances will always be of utmost importance to us. In 2020, we launched our social programme, Horizn Together, which in collaboration with the online learning platform, Kiron provides displaced and disadvantaged youth with access to free education. Together, we open new horizons – all over the world.",
+        "char_count": 419
+      },
+      {
+        "chunk_id": 4,
+        "heading": "Fostering New Talent in The Arts",
+        "text": "With a great passion for the arts, we pride ourselves in our support of emerging talent. Our entire brand is deeply rooted in creative culture, from music to visual art. Driven by our core values of curiosity, creativity, and collaboration, our Horizn Art Programme supports artists from all over the world on their journey to creative excellence.",
+        "char_count": 347
+      }
+    ],
+    "images": [
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Luggage"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/RE_Series_Glossy_Mocha_Campaign_Page_Image.jpg",
+        "alt_text": "Series Glossy Braun Campaign Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HS_Busines_Traveller_6_2_1.jpg",
+        "alt_text": "Busines Traveller - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_air_series.png",
+        "alt_text": "Spotlight Air Series - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_SoFo_Rolltop_X.png",
+        "alt_text": "Spotlight Sofo Rolltop Rucksack - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-gion-pro-spotlight_1_YoungProfessional_1.png",
+        "alt_text": "Gion Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-sofo-weekender-spotlight-8e191b.jpg",
+        "alt_text": "Sofo Weekender Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/spotlight_bags_sofo_box_bag_image.jpg",
+        "alt_text": "Spotlight Bags Sofo Box Tasche Image - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-packing-cubes-spotlight-c11ccd.jpg",
+        "alt_text": "Packing Cubes Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-topcase-spotlight-2fd349.jpg",
+        "alt_text": "Topcase Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_WHITE_01_1.png",
+        "alt_text": "Weiß - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_BLACK_01_1.png",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-impact-page-contentblock-220280.webp",
+        "alt_text": "Impact Page - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-impact-page-image-f7b12c.webp",
+        "alt_text": "Impact Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/main-24b888.webp",
+        "alt_text": "Main - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/minia-babiany-5d6e61.webp",
+        "alt_text": "Minia Babiany - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_GQ_no_claim.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_VOGUE_no_claim.png",
+        "alt_text": ""
+      }
+    ]
+  },
+  "more_about_our_partners": {
+    "meta": {
+      "label": "more_about_our_partners",
+      "url": "https://horizn-studios.com/pages/partnerships",
+      "title": "Brand Partnerships | Horizn Studios",
+      "scraped_at": "2026-04-09T14:21:44.207744",
+      "screenshot_path": "output/screenshots/more_about_our_partners.png",
+      "page_type": "brand"
+    },
+    "stats": {
+      "chunks": 7,
+      "images": 19,
+      "avg_chunk_chars": 376
+    },
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "heading": "Like-minded brands coming together",
+        "text": "Horizn Studios is built in the spirit of curiosity, creativity and collaboration. We believe deeply in the power of exchanging ideas and co-creation. As the leading travel brand for the next generation, we love to explore partnerships within the digital, travel and design space, but also love coming together with friends from within the creative community like DJs, photographers and artists. As the common ground, there needs to be a shared mindset and high standards in quality of everything we",
+        "char_count": 498
+      },
+      {
+        "chunk_id": 1,
+        "heading": "Like-minded brands coming together",
+        "text": "do together. Take a look at some partners Horizn Studios has collaborated with already to further pioneer the future of travel with great designs, products, services and common values. Feel free to send an email to communications@horizn-studios.com if you believe we could build an equally successful partnership with your brand. We look forward to hearing from you. Lifetime Warranty on all Pro and Essential Luggage GQ : Best Suitcase of Year 2026",
+        "char_count": 449
+      },
+      {
+        "chunk_id": 2,
+        "heading": "Together For Men's Mental Health",
+        "text": "A special luggage edition in collaboration with Harry’s Together with Harry’s, the men’s grooming brand, and artist Eike König, we’re excited to launch a special luggage edition. Raising awareness for men’s mental health through the artist’s interpretation, it supports Harry’s social cause dedicated to opening up a dialogue around the subject.",
+        "char_count": 345
+      },
+      {
+        "chunk_id": 3,
+        "heading": "Habitas x Horizn Studios",
+        "text": "Habitas is a place where like-minded people come together to share stories, share a meal, make music and discover new worlds. Together, Habitas and Horizn are finding ways to make a positive and lasting impact.",
+        "char_count": 210
+      },
+      {
+        "chunk_id": 4,
+        "heading": "Soho House x Horizn Studios",
+        "text": "Luggage for the Global Creative Community From New York and Mumbai to White City and West Hollywood, Soho House serves as the global creative community’s homes-away-from-home all over the globe. Now, Horizn Studios will help get you there. Closely connected from day one, Horizn Studios and Soho House now celebrate their shared values with a special-edition luggage set to help get you from House to House.",
+        "char_count": 407
+      },
+      {
+        "chunk_id": 5,
+        "heading": "Seth Troxler x Horizn Studios",
+        "text": "As the leading travel brand for the global creative community, Horizn Studios joined forces with international DJ and producer Seth Troxler to create the first edition of the Professional Line. This DJ case encapsulates everything we stand for; seamlessly bringing together our brand ethos of integrating travel technology with expert craftsmanship – thanks to the invaluable expertise from world-renowned DJ Seth Troxler. Let’s Go. Pro.",
+        "char_count": 437
+      },
+      {
+        "chunk_id": 6,
+        "heading": "Emeka Ogboh x Horizn Studios",
+        "text": "We teamed up with global citizen and celebrated artist Emeka Ogboh, and our friends at Beats by Dre, for a limited edition series of luggage and travel essentials inspired by the vibrant African megacity Lagos and its iconic people mover: the black-striped, yellow danfo bus. Let’s Go. Lagos.",
+        "char_count": 292
+      }
+    ],
+    "images": [
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Luggage"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/RE_Series_Glossy_Mocha_Campaign_Page_Image.jpg",
+        "alt_text": "Series Glossy Braun Campaign Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HS_Busines_Traveller_6_2_1.jpg",
+        "alt_text": "Busines Traveller - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_air_series.png",
+        "alt_text": "Spotlight Air Series - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_SoFo_Rolltop_X.png",
+        "alt_text": "Spotlight Sofo Rolltop Rucksack - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-gion-pro-spotlight_1_YoungProfessional_1.png",
+        "alt_text": "Gion Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-sofo-weekender-spotlight-8e191b.jpg",
+        "alt_text": "Sofo Weekender Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/spotlight_bags_sofo_box_bag_image.jpg",
+        "alt_text": "Spotlight Bags Sofo Box Tasche Image - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-packing-cubes-spotlight-c11ccd.jpg",
+        "alt_text": "Packing Cubes Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-topcase-spotlight-2fd349.jpg",
+        "alt_text": "Topcase Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_WHITE_01_1.png",
+        "alt_text": "Weiß - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_BLACK_01_1.png",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/harrys-collaboration-website-image-1-bd6104_2.webp",
+        "alt_text": "Collaboration Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horiznstudios-soho-house-collaboration-luggage-om1uu3-68f387_ce5ef80b-aacc-4343-a3e3-6bf81d8a7736.webp",
+        "alt_text": "Soho House Collaboration Koffer Aacc - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/sethtroxler-trolley-36aaeb.webp",
+        "alt_text": "Trolley - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/lagos-emeka-2-eehqlt-97a632.webp",
+        "alt_text": "Lagos Emeka - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_GQ_no_claim.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_VOGUE_no_claim.png",
+        "alt_text": ""
+      }
+    ]
+  },
+  "spotlight_sofo_backpack_rolltop_x": {
+    "meta": {
+      "label": "spotlight_sofo_backpack_rolltop_x",
+      "url": "https://horizn-studios.com/products/sofo-rolltop-backpack-x-night-blue-waxed-canvas",
+      "title": "SoFo Rolltop X – Expandable Travel Backpack | Horizn Studios",
+      "scraped_at": "2026-04-09T14:21:57.129303",
+      "screenshot_path": "output/screenshots/spotlight_sofo_backpack_rolltop_x.png",
+      "page_type": "product"
+    },
+    "stats": {
+      "chunks": 24,
+      "images": 46,
+      "avg_chunk_chars": 331
+    },
+    "chunks": [
+      {
+        "chunk_id": 0,
+        "heading": "SoFo Rolltop Backpack X",
+        "text": "Water-sealed cotton canvas See more images (10) See more images (9) Withstanding rough terrains and everyday wear, this lightweight companion is gentle on the planet and your every move, with its adjustable closure system ensuring a secure seal while providing quick access to your essentials when you need them. It’s the evolution of our signature SoFo Rolltop, featuring an easy-access front pocket and 16” laptop compartment. Water and heat-resistant coated cotton canvas (100% recycled)",
+        "char_count": 490
+      },
+      {
+        "chunk_id": 1,
+        "heading": "SoFo Rolltop Backpack X",
+        "text": "Expandable to up to 28 litres with adjustable metal hook closure Spacious main compartment with small zip pocket Separate rear section for a 16” laptop and with zip pocket Waterproof bottom and lining Premium strap to secure to Horizn luggage",
+        "char_count": 242
+      },
+      {
+        "chunk_id": 2,
+        "heading": "Material",
+        "text": "Our premium water-sealed cotton canvas is lightweight, incredibly durable, and, thanks to its tight, high-density weave and synthetic wax finish, impervious to water and heat. In addition, this product is 100% recycled. For cleaning tips, check out our Care Guide . Width x Height x Depth: 30 x 47 x 14 cm Width x Height x Depth (expanded): 30 x 64 x 14cm Volume: 22L Volume (expanded): 28L Weight: 850g Currently not available due to ongoing tariff regulations. The most sustainable product is the",
+        "char_count": 498
+      },
+      {
+        "chunk_id": 3,
+        "heading": "Material",
+        "text": "one you only have to buy once. Thanks to our two-year warranty, you’ll travel safely and environmentally friendly. Order now, and activate within 30 days. Learn more about it here .",
+        "char_count": 181
+      },
+      {
+        "chunk_id": 4,
+        "heading": "Max. Height × Width × Depth (cm)",
+        "text": "Thank you. We will notify you as soon as this item becomes available.",
+        "char_count": 69
+      },
+      {
+        "chunk_id": 5,
+        "heading": "From 50€",
+        "text": "Lightweight & Functional Ultra-light designs, durable materials and smart features – for seamless travel, wherever your journey takes you.",
+        "char_count": 138
+      },
+      {
+        "chunk_id": 6,
+        "heading": "Lightweight & Functional",
+        "text": "Two-Year Warranty Activate your warranty right after you order, and your travel companion will be covered for two years.",
+        "char_count": 120
+      },
+      {
+        "chunk_id": 7,
+        "heading": "Inspiration: SoFo",
+        "text": "Inspired by Stockholm’s SoFo district, a hotbed for creative minds and venues, the SoFo Line is designed to make your every move seamless. Featuring thoughtful materials, such as our coated cotton canvas and various recycled components, they stay in shape, no matter the weather conditions. black Variant sold out or unavailable sand grey Variant sold out or unavailable night blue Variant sold out or unavailable dark olive Variant sold out or unavailable blue vega Variant sold out or unavailable",
+        "char_count": 498
+      },
+      {
+        "chunk_id": 8,
+        "heading": "Inspiration: SoFo",
+        "text": "true red Variant sold out or unavailable agave green Variant sold out or unavailable Liquids Bag Transparent Regular price 40.00 Sale price 40.00 Regular price 0.00 Unit price / per",
+        "char_count": 181
+      },
+      {
+        "chunk_id": 9,
+        "heading": "Liquids Bag",
+        "text": "all black Variant sold out or unavailable dark olive Variant sold out or unavailable Gion Laptop Case 13\" High-end Nylon Regular price 80.00 Sale price 80.00 Regular price 0.00 Unit price / per",
+        "char_count": 193
+      },
+      {
+        "chunk_id": 10,
+        "heading": "Gion Laptop Case 13\"",
+        "text": "night blue Variant sold out or unavailable all black Variant sold out or unavailable dark olive Variant sold out or unavailable sand grey Variant sold out or unavailable SoFo Cross-Body Bag Water-sealed cotton canvas Regular price 80.00 Sale price 80.00 Regular price 0.00 Unit price / per",
+        "char_count": 289
+      },
+      {
+        "chunk_id": 11,
+        "heading": "SoFo Cross-Body Bag",
+        "text": "all black Variant sold out or unavailable dark olive Variant sold out or unavailable Gion Cross-Body Bag S Recycled Nylon Regular price 60.00 Sale price 60.00 Regular price 0.00 Unit price / per",
+        "char_count": 194
+      },
+      {
+        "chunk_id": 12,
+        "heading": "Gion Cross-Body Bag S",
+        "text": "Essential all black Variant sold out or unavailable sand grey Variant sold out or unavailable night blue Variant sold out or unavailable glossy agave green Variant sold out or unavailable coastal blue Variant sold out or unavailable glossy true red Variant sold out or unavailable cloud rose Variant sold out or unavailable glossy graphite Variant sold out or unavailable glossy night blue Variant sold out or unavailable H5 Essential Cabin Luggage (36L) Regular price 290.00 Sale price 290.00",
+        "char_count": 493
+      },
+      {
+        "chunk_id": 13,
+        "heading": "Gion Cross-Body Bag S",
+        "text": "Regular price 0.00 Unit price / per",
+        "char_count": 35
+      },
+      {
+        "chunk_id": 14,
+        "heading": "H5 Essential",
+        "text": "night blue Variant sold out or unavailable all black Variant sold out or unavailable dark olive Variant sold out or unavailable light quartz grey Variant sold out or unavailable SoFo Backpack Rolltop Water-sealed cotton canvas Regular price 150.00 Sale price 150.00 Regular price 0.00 Unit price / per",
+        "char_count": 301
+      },
+      {
+        "chunk_id": 15,
+        "heading": "Customer Reviews",
+        "text": "GREGOR R. Verified Buyer Cooles Travel Backpack Super Backpack für 3-4 Tage Business Trips Translate to English Published date 05/04/26 Was this review helpful? 0 0 Super Backpack für 3-4 Tage Business Trips Katrin P. Verified Buyer Einfach toll! Super Rucksack. Sieht toll aus, ist praktisch und die Qualität super! Translate to English Published date 03/04/26 Was this review helpful? 0 0 Super Rucksack. Sieht toll aus, ist praktisch und die Qualität super! Stefanie S. Verified Buyer Sehr gut",
+        "char_count": 496
+      },
+      {
+        "chunk_id": 16,
+        "heading": "Customer Reviews",
+        "text": "Sehr guter und schöner Rucksack. Würde ich immer wieder kaufen. Translate to English Published date 31/03/26 Was this review helpful? 0 0 Sehr guter und schöner Rucksack. Würde ich immer wieder kaufen. Melanie C. Verified Buyer Alles drin Schön groß und robust Translate to English Published date 31/03/26 Was this review helpful? 0 0 Mihnea M. Verified Buyer A very solid backpack I've now had three Gion backpacks and they are my absolute go-to. Perfect for commuting, and most of the time they",
+        "char_count": 496
+      },
+      {
+        "chunk_id": 17,
+        "heading": "Customer Reviews",
+        "text": "work really well for travel too. They look fantastic and they hold up well. Will definitely come back to Horizn Studios for my next bag. Published date 23/03/26 Was this review helpful? 0 0 I've now had three Gion backpacks and they are my absolute go-to. Perfect for commuting, and most of the time they work really well for travel too. They look fantastic and they hold up well. Will definitely come back to Horizn Studios for my next bag. Mariam K. Verified Reviewer Great weekender Great",
+        "char_count": 491
+      },
+      {
+        "chunk_id": 18,
+        "heading": "Customer Reviews",
+        "text": "weekender and sports bag, durable and lightweight, a perfect allrounder. Published date 23/03/26 Was this review helpful? 0 0 Great weekender and sports bag, durable and lightweight, a perfect allrounder. Philipp W. Verified Reviewer Built like a premium Tank I have used it on several international trips, and it has never let me down. The wheels roll incredibly smoothly, regardless of the surface. The capacity is more than sufficient, even for trips lasting 3–4 weeks. It’s built like a tank and",
+        "char_count": 499
+      },
+      {
+        "chunk_id": 19,
+        "heading": "Customer Reviews",
+        "text": "feels extremely durable and premium. I would definitely buy ... Read more Published date 22/03/26 Was this review helpful? 0 0 Built like a premium Tank I have used it on several international trips, and it has never let me down. The wheels roll incredibly smoothly, regardless of the surface. The capacity is more than sufficient, even for trips lasting 3–4 weeks. It’s built like a tank and feels extremely durable and premium. I would definitely buy ... Pauwel D. Verified Buyer Fantastic",
+        "char_count": 491
+      },
+      {
+        "chunk_id": 20,
+        "heading": "Customer Reviews",
+        "text": "purchase Extremely convenient weekender made from durable materials. It has held up very well over the past few years. There was a minor issue with the strap, which Horizn Studios fixed quickly and free of charge. I’ve had several people ask where it’s from, impressed by its design. I fully recommend. Published date 21/03/26 Was this review helpful? 0 0 Extremely convenient weekender made from durable materials. It has held up very well over the past few years. There was a minor issue with the",
+        "char_count": 498
+      },
+      {
+        "chunk_id": 21,
+        "heading": "Customer Reviews",
+        "text": "strap, which Horizn Studios fixed quickly and free of charge. I’ve had several people ask where it’s from, impressed by its design. I fully recommend. Emrah A. Verified Reviewer Funktion und Design Top Qualität, super Bequem und sehr schönes Design. Ideal fürs Reisen um seine Essentials immer bei sich zu haben. Translate to English Published date 21/03/26 Was this review helpful? 0 0 Top Qualität, super Bequem und sehr schönes Design. Ideal fürs Reisen um seine Essentials immer bei sich zu",
+        "char_count": 494
+      },
+      {
+        "chunk_id": 22,
+        "heading": "Customer Reviews",
+        "text": "haben. Vernessa W. Verified Reviewer Perfect for family holidays We are a small family with two children and we always travel with lots of luggage. We are very happy with our suitcases from Horizn Studios, they are lightweight, handy, sturdy and stylish, we have three of them! Published date 21/03/26 Was this review helpful? 0 0 Perfect for family holidays We are a small family with two children and we always travel with lots of luggage. We are very happy with our suitcases from Horizn Studios,",
+        "char_count": 499
+      },
+      {
+        "chunk_id": 23,
+        "heading": "Customer Reviews",
+        "text": "they are lightweight, handy, sturdy and stylish, we have three of them!",
+        "char_count": 71
+      }
+    ],
+    "images": [
+      {
+        "url": "https://horizn-studios.com/cdn/shop/collections/HP_BTW_Content_Block_Luggage_Image.jpg",
+        "alt_text": "Luggage"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/25-07-HORIZN-FW25-0913_1.jpg",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/RE_Series_Glossy_Mocha_Campaign_Page_Image.jpg",
+        "alt_text": "Series Glossy Braun Campaign Page Image - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HS_Busines_Traveller_6_2_1.jpg",
+        "alt_text": "Busines Traveller - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_air_series.png",
+        "alt_text": "Spotlight Air Series - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/26_website_spotlight_SoFo_Rolltop_X.png",
+        "alt_text": "Spotlight Sofo Rolltop Rucksack - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-gion-pro-spotlight_1_YoungProfessional_1.png",
+        "alt_text": "Gion Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-sofo-weekender-spotlight-8e191b.jpg",
+        "alt_text": "Sofo Weekender Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/spotlight_bags_sofo_box_bag_image.jpg",
+        "alt_text": "Spotlight Bags Sofo Box Tasche Image - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-packing-cubes-spotlight-c11ccd.jpg",
+        "alt_text": "Packing Cubes Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-topcase-spotlight-2fd349.jpg",
+        "alt_text": "Topcase Spotlight - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_WHITE_01_1.png",
+        "alt_text": "Weiß - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/HORIZN_STUDIOS_LOGO_BLACK_01_1.png",
+        "alt_text": "Horizn Studios Reisegepäck - Leicht Robust und Langlebig"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Front.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_3_4.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Back.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Rückseite - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Front_Pocket_Detail.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Fronttasche Detail - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Detail_Laptop.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Detail Laptop - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Main_Compartment_Back.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Hauptfach Rückseite - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Night_Blue_Closure_Shot.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Blau Shot - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Night_Blue_extended_Version.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Blau Erweitert Version - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Front_Extended.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Vorderseite Erweitert - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_Front_On_Trolley.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Vorderseite Trolley - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Backpack_X_Backpack_Night_Blue_On_Trolley_Back.png",
+        "alt_text": "Sofo Rolltop Rucksack Rucksack Rucksack Blau Trolley Rückseite - Wasserabweisend Vegan Ergonomisch - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-cb57de.webp",
+        "alt_text": "Sofo Rucksäcke - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-1-aa37aa.webp",
+        "alt_text": "Sofo Rucksäcke - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-2-874b7f.webp",
+        "alt_text": "Sofo Rucksäcke - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-3-ef7a72.webp",
+        "alt_text": "Sofo Rucksäcke - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-4-7eca70.webp",
+        "alt_text": "Sofo Rucksäcke - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-lifestyle-carousel-sofo-backpacks-5-d96952_b2162450-25d7-4035-97d8-17db628bf0f0.webp",
+        "alt_text": "Sofo Rucksäcke - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-sofo-x-banner-below-the-fold-1-dff11b.webp",
+        "alt_text": "Sofo Below The Fold - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/horizn-pdp-sofo-x-banner-below-the-fold-298764.webp",
+        "alt_text": "Sofo Below The Fold - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/liquidsbag-nightblue-emptyfront-058656_117a7828-f6ed-49cf-880c-2b04e7a00fe2.jpg",
+        "alt_text": "Liquidsbag - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/liquidsbag-nightblue-emptyside-2869e3_20d10154-e7eb-47e1-986c-573d7a2464c0.jpg",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Gion_Laptop_Case_All_Black_Front_79a2faa6-a512-41d6-8e24-36aa872c191d.png",
+        "alt_text": "Gion Laptop Case Vorderseite Faa - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Gion_Laptop_Case_All_Black_3_4_4ef73088-10ea-4154-b9c5-ffb960c14c3a.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Crossbody_Night_Blue_Front.png",
+        "alt_text": "SoFo Cross-Body Bag / Night Blue / Waxed Canvas"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Crossbody_Night_Blue_Side.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Gion_Crossbody_Small_All_Black_Front.png",
+        "alt_text": "Gion Umhängetasche Small Vorderseite - Wasserabweisend Funktional Stilvoll - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/Gion_Crossbody_Small_All_Black_3_4.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H5_Essential_Night_Blue_Front_6dfb6cbe-f033-4a03-ae7f-98c4e700d715.png",
+        "alt_text": "Koffer Essential Blau Vorderseite Cbe - Hartschale Polycarbonat Leicht Robust - Horizn Studios"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/H5_Essential_Night_Blue_3_4_d4f86a85-3e1c-4759-9a47-75a706e6b56f.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Night_Blue_Front_1.png",
+        "alt_text": "SoFo Rolltop Backpack / Night Blue / Waxed Canvas"
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/SoFo_Rolltop_Night-Blue_3_4.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_GQ_no_claim.png",
+        "alt_text": ""
+      },
+      {
+        "url": "https://horizn-studios.com/cdn/shop/files/2602_PDP_Test_Winner_Icon_VOGUE_no_claim.png",
+        "alt_text": ""
+      }
+    ]
+  }
+}

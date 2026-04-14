@@ -1,0 +1,125 @@
+{
+  "source_url": "https://horizn-studios.com",
+  "generated_at": "2026-04-13T11:15:19.747309+00:00",
+  "chunks_analysed": 58,
+  "high_confidence_chunks": 57,
+  "kansei_profile": {
+    "bold_subtle": "bold",
+    "dynamic_static": "dynamic",
+    "premium_accessible": "premium",
+    "modern_traditional": "modern",
+    "minimal_ornate": "minimal",
+    "functional_decorative": "functional",
+    "urban_natural": "natural",
+    "timeless_trendy": "timeless",
+    "rough_refined": "refined",
+    "individual_collective": "collective",
+    "serious_playful": "serious",
+    "transparent_mysterious": "transparent"
+  },
+  "primary_settings": [
+    "outdoor_urban",
+    "outdoor_travel",
+    "indoor_home"
+  ],
+  "primary_audience": [
+    "performer",
+    "adaptive_pragmatic"
+  ],
+  "color_palette": {
+    "hex_codes": [
+      "#1A1A1A",
+      "#FFFFFF",
+      "#2B354B",
+      "#BDB7A9",
+      "#D8B4B8"
+    ],
+    "roles": {
+      "#1A1A1A": "secondary",
+      "#FFFFFF": "neutral",
+      "#2B354B": "primary",
+      "#BDB7A9": "background",
+      "#D8B4B8": "primary"
+    }
+  },
+  "dominant_shot_sizes": [
+    "medium",
+    "medium_wide",
+    "medium_close_up"
+  ],
+  "dominant_lighting": [
+    "natural_soft",
+    "natural_harsh"
+  ],
+  "dominant_people_presence": [
+    "partial_body",
+    "full_body"
+  ],
+  "dominant_narrative_styles": [
+    "staged",
+    "documentary"
+  ],
+  "brand_adjectives": [],
+  "brand_values": [],
+  "image_prompt_components": {
+    "subject": "Full and partial body shots of people with products in use, lifestyle focus",
+    "environment": "Outdoor urban, outdoor travel, and indoor home settings",
+    "lighting": "Natural lighting, ranging from soft to harsh",
+    "composition": "Medium, medium-wide, and medium close-up shots; eye-level and low-angle perspectives; moderate depth of field; rule of thirds and centered compositions",
+    "color_palette": "A sophisticated mix of deep navy blue and muted rose pink as primary tones, supported by a neutral white, a warm taupe background, and secondary charcoal black",
+    "mood_keywords": [
+      "bold",
+      "dynamic",
+      "premium",
+      "modern",
+      "refined"
+    ],
+    "negative_prompt": []
+  },
+  "profile_confidence": 0.826,
+  "low_signal_warnings": [],
+  "kansei_raw_votes": {
+    "bold_subtle": {
+      "bold": 4.4,
+      "subtle": 0.85
+    },
+    "dynamic_static": {
+      "dynamic": 12.75
+    },
+    "premium_accessible": {
+      "accessible": 4.65,
+      "premium": 42.15
+    },
+    "modern_traditional": {
+      "modern": 32.95
+    },
+    "minimal_ornate": {
+      "minimal": 6.3
+    },
+    "functional_decorative": {
+      "functional": 26.9
+    },
+    "urban_natural": {
+      "urban": 4.35,
+      "natural": 8.0
+    },
+    "timeless_trendy": {
+      "timeless": 9.5
+    },
+    "rough_refined": {
+      "refined": 24.8,
+      "rough": 0.9
+    },
+    "individual_collective": {
+      "individual": 1.75,
+      "collective": 4.3
+    },
+    "serious_playful": {
+      "playful": 1.55,
+      "serious": 4.1
+    },
+    "transparent_mysterious": {
+      "transparent": 0.6
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "source_url": "https://horizn-studios.com",
+  "generated_at": "2026-04-13T12:58:20.690271+00:00",
+  "chunks_analysed": 58,
+  "high_confidence_chunks": 56,
+  "kansei_profile": {
+    "bold_subtle": "bold",
+    "dynamic_static": "dynamic",
+    "premium_accessible": "premium",
+    "modern_traditional": "modern",
+    "minimal_ornate": "minimal",
+    "functional_decorative": "functional",
+    "urban_natural": "urban",
+    "timeless_trendy": "timeless",
+    "rough_refined": "refined",
+    "individual_collective": "collective",
+    "serious_playful": "serious",
+    "refined_rough": "refined"
+  },
+  "primary_settings": [
+    "outdoor_urban",
+    "outdoor_travel",
+    "indoor_home"
+  ],
+  "primary_audience": [
+    "performer",
+    "adaptive_pragmatic"
+  ],
+  "color_palette": {
+    "hex_codes": [
+      "#1A1A1A",
+      "#D8B4B9",
+      "#B0B0B0",
+      "#FFFFFF",
+      "#2B3A55"
+    ],
+    "roles": {
+      "#1A1A1A": "accent",
+      "#D8B4B9": "primary",
+      "#B0B0B0": "neutral",
+      "#FFFFFF": "neutral",
+      "#2B3A55": "primary"
+    }
+  },
+  "dominant_shot_sizes": [
+    "medium_wide",
+    "medium",
+    "medium_close_up"
+  ],
+  "dominant_lighting": [
+    "natural_soft",
+    "natural_harsh"
+  ],
+  "dominant_people_presence": [
+    "partial_body",
+    "full_body"
+  ],
+  "dominant_narrative_styles": [
+    "staged",
+    "documentary"
+  ],
+  "brand_adjectives": [],
+  "brand_values": [],
+  "image_prompt_components": {
+    "subject": "Full or partial body shots of people with products in use, captured in lifestyle contexts",
+    "environment": "Outdoor urban settings, travel locations, and indoor home environments",
+    "lighting": "A mix of natural soft and natural harsh lighting",
+    "composition": "Medium wide to medium close-up shots, eye-level or low-angle perspectives, shallow depth of field, utilizing centered or rule-of-thirds compositions",
+    "color_palette": "A sophisticated mix of deep navy blue and dusty rose primary tones, accented by charcoal black, silver grey, and clean white",
+    "mood_keywords": [
+      "staged",
+      "documentary",
+      "bold",
+      "dynamic",
+      "premium"
+    ],
+    "negative_prompt": []
+  },
+  "profile_confidence": 0.844,
+  "low_signal_warnings": [],
+  "kansei_raw_votes": {
+    "bold_subtle": {
+      "bold": 5.3,
+      "subtle": 0.7
+    },
+    "dynamic_static": {
+      "dynamic": 12.05
+    },
+    "premium_accessible": {
+      "accessible": 5.55,
+      "premium": 38.3
+    },
+    "modern_traditional": {
+      "modern": 36.5
+    },
+    "minimal_ornate": {
+      "minimal": 12.7
+    },
+    "functional_decorative": {
+      "functional": 26.55
+    },
+    "urban_natural": {
+      "urban": 5.3,
+      "natural": 4.55
+    },
+    "timeless_trendy": {
+      "timeless": 10.55
+    },
+    "rough_refined": {
+      "refined": 23.4,
+      "rough": 0.9
+    },
+    "individual_collective": {
+      "individual": 1.75,
+      "collective": 3.45
+    },
+    "serious_playful": {
+      "playful": 1.55,
+      "serious": 1.75
+    },
+    "refined_rough": {
+      "refined": 1.75
+    }
+  }
+}

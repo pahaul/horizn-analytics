@@ -1,0 +1,21 @@
+{
+  "framework": "IPTC NewsCodes – Scene & Location (adapted subset)",
+  "version": "1.0",
+  "source": "IPTC NewsCodes Scene taxonomy. Full vocabulary: https://cv.iptc.org/newscodes/scene/ — This file contains a curated subset relevant to product/lifestyle photography. IPTC (International Press Telecommunications Council) maintains this as an open industry standard for media metadata.",
+  "note": "Original IPTC codes cover journalistic contexts. Values here are adapted for brand/product photography settings. Code references from the original taxonomy are preserved where applicable.",
+  "usage": "Select max 2 values that best describe the physical setting implied or shown in this brand content. Prefer specific over generic.",
+  "values": {
+    "outdoor_urban":      { "iptc_ref": "011900", "description": "City streets, architecture, public spaces, commuter contexts" },
+    "outdoor_nature":     { "iptc_ref": "011800", "description": "Forests, mountains, coasts, parks – natural environments" },
+    "outdoor_travel":     { "iptc_ref": "011400", "description": "Airports, transit, roads, destinations – movement contexts" },
+    "indoor_home":        { "iptc_ref": "010900", "description": "Domestic spaces, living rooms, kitchens, bedrooms" },
+    "indoor_workspace":   { "iptc_ref": "010800", "description": "Offices, desks, coworking spaces, professional environments" },
+    "indoor_retail":      { "iptc_ref": "010700", "description": "Shops, showrooms, product display contexts" },
+    "studio_neutral":     { "iptc_ref": "011100", "description": "Clean background, controlled lighting, no location context – product focus" },
+    "cafe_social":        { "iptc_ref": "010600", "description": "Cafes, restaurants, social gathering spaces" },
+    "sports_active":      { "iptc_ref": "012400", "description": "Gyms, outdoor sport, physical activity contexts" },
+    "cultural_venue":     { "iptc_ref": "010300", "description": "Museums, galleries, cultural institutions" },
+    "unspecified":        { "iptc_ref": null,      "description": "Setting cannot be determined from text alone" }
+  },
+  "for_image_generation": "Setting values map directly to background/environment in image prompts: 'outdoor_urban' → city street, concrete, glass, people in motion; 'studio_neutral' → white or grey seamless, soft box lighting"
+}

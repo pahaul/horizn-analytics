@@ -1,0 +1,44 @@
+{
+  "framework": "Geneva Emotion Wheel (GEW)",
+  "version": "3.0",
+  "source": "Scherer, K.R. (2005). What are emotions? And how can they be measured? Social Science Information, 44(4), 693-727. Swiss Center for Affective Sciences, University of Geneva. https://www.unige.ch/cisa/gew/",
+  "note": "The GEW measures emotional reactions to objects, events, and situations. In this context: how does the brand communication make the viewer feel? The 20 emotion families are the official validated set from the instrument.",
+  "usage": "Select max 2 values that best describe the emotional reaction a viewer would have to this brand content. Focus on what the brand intends to evoke, not your own reaction.",
+  "axes": {
+    "valence": "positive (left) to negative (right)",
+    "control": "high control/empowerment (top) to low control/submission (bottom)"
+  },
+  "values": {
+    "positive_high_control": {
+      "pride":        "feeling of achievement, self-worth, accomplishment",
+      "joy":          "happiness, delight, pleasure",
+      "amusement":    "finding something funny or entertaining",
+      "elation":      "euphoria, exhilaration, great happiness"
+    },
+    "positive_low_control": {
+      "love":         "affection, warmth, fondness",
+      "admiration":   "respect, looking up to something",
+      "relief":       "tension released, reassurance",
+      "compassion":   "empathy, concern, care"
+    },
+    "negative_high_control": {
+      "contempt":     "disdain, looking down on something",
+      "disgust":      "revulsion, rejection, strong dislike",
+      "anger":        "frustration, irritation, outrage",
+      "envy":         "wanting what others have, jealousy"
+    },
+    "negative_low_control": {
+      "sadness":      "sorrow, grief, unhappiness",
+      "fear":         "anxiety, worry, threat perception",
+      "shame":        "embarrassment, self-consciousness",
+      "guilt":        "sense of wrongdoing, remorse"
+    },
+    "neutral_ambiguous": {
+      "interest":     "curiosity, engagement, wanting to know more",
+      "surprise":     "unexpected, novel, unanticipated",
+      "longing":      "nostalgia, yearning, desire for something absent",
+      "awe":          "wonder, being overwhelmed by greatness or beauty"
+    }
+  },
+  "for_image_generation": "Translate selected emotions into visual atmosphere: e.g. 'admiration' → elevated perspective, premium materials, clean space; 'longing' → warm golden light, distance, soft focus"
+}

@@ -1,0 +1,163 @@
+{
+  "source_url": "https://horizn-studios.com",
+  "generated_at": "2026-04-13T12:20:57.034666+00:00",
+  "chunks_analysed": 58,
+  "high_confidence_chunks": 27,
+  "kansei_profile": {
+    "functional_decorative": "functional",
+    "serious_playful": "serious",
+    "dynamic_static": "dynamic",
+    "individual_collective": "individual",
+    "modern_traditional": "modern",
+    "minimal_ornate": "minimal",
+    "urban_natural": "natural",
+    "premium_accessible": "premium",
+    "rough_refined": "refined",
+    "bold_subtle": "bold",
+    "timeless_trendy": "timeless",
+    "transparent_mysterious": "transparent",
+    "functional": "functional",
+    "premium": "premium",
+    "serious": "serious",
+    "timeless": "timeless"
+  },
+  "primary_settings": [
+    "outdoor_travel",
+    "indoor_home",
+    "indoor_retail"
+  ],
+  "primary_audience": [
+    "upper_liberal",
+    "socioecological"
+  ],
+  "color_palette": {
+    "hex_codes": [
+      "#FFFFFF",
+      "#A9A9A9",
+      "#D3D3D3",
+      "#D8C0C0",
+      "#333333"
+    ],
+    "roles": {
+      "#FFFFFF": "primary",
+      "#A9A9A9": "secondary",
+      "#D3D3D3": "background",
+      "#D8C0C0": "primary",
+      "#333333": "accent"
+    }
+  },
+  "dominant_shot_sizes": [
+    "medium_wide",
+    "medium_close_up",
+    "medium-wide"
+  ],
+  "dominant_lighting": [
+    "studio_soft",
+    "natural_soft"
+  ],
+  "dominant_people_presence": [
+    "partial_body",
+    "full_body"
+  ],
+  "dominant_narrative_styles": [
+    "staged",
+    "documentary"
+  ],
+  "brand_adjectives": [
+    "functional",
+    "serious",
+    "modern",
+    "minimal",
+    "natural",
+    "timeless"
+  ],
+  "brand_values": [
+    "Functionality",
+    "Premium Quality",
+    "Timeless Design",
+    "Individual Expression",
+    "Natural Aesthetic"
+  ],
+  "image_prompt_components": {
+    "subject": "People in partial or full body shots, engaging in lifestyle activities with products in use.",
+    "environment": "A blend of outdoor travel settings, indoor homes, and retail environments.",
+    "lighting": "Soft, natural, or studio-controlled lighting.",
+    "composition": "Medium-wide shots taken at eye level, utilizing the rule of thirds and leading lines, with moderate depth of field.",
+    "color_palette": "Primary use of white and light gray, accented by a muted dusty rose/taupe and deep charcoal.",
+    "mood_keywords": [
+      "staged",
+      "documentary",
+      "timeless",
+      "natural",
+      "refined"
+    ],
+    "negative_prompt": []
+  },
+  "profile_confidence": 0.431,
+  "low_signal_warnings": [],
+  "kansei_raw_votes": {
+    "functional_decorative": {
+      "functional": 21.25
+    },
+    "serious_playful": {
+      "playful": 2.8,
+      "serious": 9.55
+    },
+    "dynamic_static": {
+      "dynamic": 13.25,
+      "static": 1.0
+    },
+    "individual_collective": {
+      "collective": 4.7,
+      "individual": 5.8,
+      "neutral": 0.9
+    },
+    "modern_traditional": {
+      "modern": 17.55,
+      "traditional": 1.0,
+      "neutral": 0.95
+    },
+    "minimal_ornate": {
+      "minimal": 17.5,
+      "neutral": 1.85,
+      "ornate": 0.95
+    },
+    "urban_natural": {
+      "urban": 2.85,
+      "natural": 7.55,
+      "neutral": 2.0
+    },
+    "premium_accessible": {
+      "premium": 16.7,
+      "neutral": 0.95
+    },
+    "rough_refined": {
+      "refined": 8.6,
+      "neutral": 0.95
+    },
+    "bold_subtle": {
+      "bold": 4.55,
+      "subtle": 1.95
+    },
+    "timeless_trendy": {
+      "timeless": 7.55,
+      "trendy": 0.95
+    },
+    "transparent_mysterious": {
+      "transparent": 6.65,
+      "neutral": 1.95
+    },
+    "functional": {
+      "functional": 0.9
+    },
+    "premium": {
+      "premium": 0.9
+    },
+    "serious": {
+      "serious": 0.9
+    },
+    "timeless": {
+      "timeless": 0.9
+    }
+  }
+}
